@@ -1,0 +1,6 @@
+.cache/
+.dotnet/
+.gnupg/
+.ssh/
+.gitconfig/
+.vscode-server/
